@@ -1,6 +1,7 @@
 # NOTICE
-hello MIREA!!!
-And World
+
+Hello World!!!
+And MIREA
 This project is no longer actively maintained, it should still work for the foreseeable future
 
 ---
